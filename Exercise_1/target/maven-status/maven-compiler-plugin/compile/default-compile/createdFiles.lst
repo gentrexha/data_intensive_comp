@@ -1,0 +1,6 @@
+MapReduce\Part_1\WordFrequenceInDoc\WordFreqInDocMapper.class
+MapReduce\Parser.class
+MapReduce\TermDocumentWritable.class
+MapReduce\Part_1\WordFreqInDocDriver.class
+MapReduce\Part_1\WordFrequenceInDoc\WordFreqInDocReducer.class
+MapReduce\Review.class
