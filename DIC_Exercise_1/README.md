@@ -1,1 +1,0 @@
-## Specification: https://tuwel.tuwien.ac.at/pluginfile.php/1443154/mod_resource/content/1/DIC_2019S_Assignment_1_v1.html
